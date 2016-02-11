@@ -1,2 +1,2 @@
 # mywc
-Simple reimplementaion of the Unix utility 'wc' created for operating systems course.
+Reimplementation of the Unix utility 'wc' created for my operating systems course.
